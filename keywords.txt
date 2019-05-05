@@ -1,0 +1,26 @@
+#########################################
+# Syntax Coloring Map for DS3231		#
+#########################################
+
+#########################################
+# Datatypes (KEYWORD1)					#
+#########################################
+
+ask_ds3231	KEYWORD1
+
+#########################################
+# Methods and Functions (KEYWORD2)		#
+#########################################
+
+begin				KEYWORD2
+setUp				KEYWORD2
+setDateTime			KEYWORD2
+getDateTime			KEYWORD2
+getTemperature		KEYWORD2
+dayOfWeak			KEYWORD2
+getSecond			KEYWORD2
+getMinute			KEYWORD2
+getHour				KEYWORD2
+getMinuteFrom18Year	KEYWORD2
+getSecondFrom18Year	KEYWORD2
+sensorActivated		KEYWORD2
